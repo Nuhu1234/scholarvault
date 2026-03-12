@@ -1,0 +1,11 @@
+{
+  "name": "my-digital-folder",
+  "version": "1.0.0",
+  "description": "A simple file storage website for school files",
+  "private": true,
+  "scripts": {
+    "dev": "cd backend && npm install && node server.js",
+    "build": "echo 'Frontend is static HTML'",
+    "start": "cd backend && node server.js"
+  }
+}
